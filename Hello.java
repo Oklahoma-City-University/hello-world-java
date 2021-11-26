@@ -5,6 +5,7 @@ public class Hello {
         System.out.println("Hello Tyler");
         print("Whats up Landon!");
         print("Hello Scott");
+        System.out.println("Hello Kathryn");
     }
     
     public static void print(String input) {
