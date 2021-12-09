@@ -6,6 +6,7 @@ public class Hello {
         print("Whats up Landon!");
         print("Hello Scott");
         System.out.println("Hello Kathryn");
+        System.out.println("Hello Dezmen")
     }
     
     public static void print(String input) {
